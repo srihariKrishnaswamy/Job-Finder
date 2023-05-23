@@ -1,6 +1,4 @@
 # Learning React Native
-This is a fully functional app I built following a tutorial so I could learn React Native - obviously this isn't the end, and I'll definitely do smaller projects like this one to keep learning it more. It happens to be a job finder app, not to be confused with Clover, the React job-finder web app that I'm currently building. Also note: I don't usually post tutorial-based projects on my GH, and this will be made private in a couple days. 
+This is a fully functional app I built to learn React Native. It is for people to find local jobs and uses the Jobsearch API. There is no backend as of now, but this is something I may come back to in the future.
 # Deployment
-This app is deployed with Expo. Side note: I also learned a lot about expo through the course of this mini-project. In order to see it in action, please go to this link: https://expo.dev/@sriharik844/ReactNativeTutApp?serviceType=classic&distribution=expo-go. Due to some expo issues, it might not be visible to everyone, in which case please visit this link to see a quick demo video I recorded: https://drive.google.com/file/d/14cF-zM85tcyxZ9EJOhFO6S551rOBEC5N/view?usp=share_link.
-# Tutorial
-Here is the link to the video I followed: https://www.youtube.com/watch?v=mJ3bGvy0WAY. You'll find that my code matches up with it since I wrote my code along with the tutorial over the course of the day. However, I took time to truly study and learn about how and why it worked, and spent long hours fixing bugs. I learned a lot from this mini-project, and can't wait to do another one soon.
+This app is deployed with Expo. In order to see it in action, please go to this link: https://expo.dev/@sriharik844/ReactNativeTutApp?serviceType=classic&distribution=expo-go. 
